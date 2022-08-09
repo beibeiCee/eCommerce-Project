@@ -1,0 +1,2 @@
+import Link from "next/link";
+import { FiShoppingBag } from "react-icons/fi";
